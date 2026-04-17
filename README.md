@@ -6,7 +6,7 @@
 `npm fund`  
 `npm start`
 
-`http://localhost:3000/api/products/`
+Browse to: `http://localhost:3000/api/products/`
 
 ## Routes
 
